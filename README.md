@@ -1,6 +1,6 @@
 # 📘 Cadastro de Contatos – CRUD em Python + SQLite
 
-Um **CRUD de contatos** feito na unha, usando **Python** (padrão da linguagem) e **SQLite** (integrado ao Python via `sqlite3`, sem instalar nada).  
+Um **CRUD de contatos**, usando **Python** (padrão da linguagem) e **SQLite** (integrado ao Python via `sqlite3`, sem instalar nada).  
 Ideal para praticar **manipulação de dados**, **boas práticas de código** e **organização de projeto**.
 
 ---
